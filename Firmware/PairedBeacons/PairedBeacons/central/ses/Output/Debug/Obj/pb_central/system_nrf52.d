@@ -1,0 +1,24 @@
+Output/Debug/Obj/pb_central/system_nrf52.o: \
+ E:\Personal\Projects\Amrica\2024_order\Firmware\PairedBeacons\PairedBeacons\nRF_SDK\modules\nrfx\mdk\system_nrf52.c \
+ E:/Personal/Projects/Amrica/EmbeddedStudio_ARM_Nordic_v568_win_x64/arm_segger_embedded_studio_v568_win_x64_nordic/include/stdint.h \
+ E:/Personal/Projects/Amrica/EmbeddedStudio_ARM_Nordic_v568_win_x64/arm_segger_embedded_studio_v568_win_x64_nordic/include/stdbool.h \
+ E:\Personal\Projects\Amrica\2024_order\Firmware\PairedBeacons\PairedBeacons\nRF_SDK\modules\nrfx\mdk\nrf.h \
+ E:\Personal\Projects\Amrica\2024_order\Firmware\PairedBeacons\PairedBeacons\nRF_SDK\modules\nrfx\mdk\nrf52.h \
+ ../../nRF_SDK/components/toolchain/cmsis/include/core_cm4.h \
+ ../../nRF_SDK/components/toolchain/cmsis/include/cmsis_version.h \
+ ../../nRF_SDK/components/toolchain/cmsis/include/cmsis_compiler.h \
+ ../../nRF_SDK/components/toolchain/cmsis/include/cmsis_gcc.h \
+ ../../nRF_SDK/components/toolchain/cmsis/include/mpu_armv7.h \
+ E:\Personal\Projects\Amrica\2024_order\Firmware\PairedBeacons\PairedBeacons\nRF_SDK\modules\nrfx\mdk\system_nrf52.h \
+ E:\Personal\Projects\Amrica\2024_order\Firmware\PairedBeacons\PairedBeacons\nRF_SDK\modules\nrfx\mdk\nrf52_bitfields.h \
+ E:\Personal\Projects\Amrica\2024_order\Firmware\PairedBeacons\PairedBeacons\nRF_SDK\modules\nrfx\mdk\nrf51_to_nrf52.h \
+ E:\Personal\Projects\Amrica\2024_order\Firmware\PairedBeacons\PairedBeacons\nRF_SDK\modules\nrfx\mdk\nrf52_name_change.h \
+ E:\Personal\Projects\Amrica\2024_order\Firmware\PairedBeacons\PairedBeacons\nRF_SDK\modules\nrfx\mdk\compiler_abstraction.h \
+ E:\Personal\Projects\Amrica\2024_order\Firmware\PairedBeacons\PairedBeacons\nRF_SDK\modules\nrfx\mdk\nrf_peripherals.h \
+ E:\Personal\Projects\Amrica\2024_order\Firmware\PairedBeacons\PairedBeacons\nRF_SDK\modules\nrfx\mdk\nrf52832_peripherals.h \
+ E:\Personal\Projects\Amrica\2024_order\Firmware\PairedBeacons\PairedBeacons\nRF_SDK\modules\nrfx\mdk\nrf_erratas.h \
+ E:\Personal\Projects\Amrica\2024_order\Firmware\PairedBeacons\PairedBeacons\nRF_SDK\modules\nrfx\mdk\nrf51_erratas.h \
+ E:\Personal\Projects\Amrica\2024_order\Firmware\PairedBeacons\PairedBeacons\nRF_SDK\modules\nrfx\mdk\nrf52_erratas.h \
+ E:\Personal\Projects\Amrica\2024_order\Firmware\PairedBeacons\PairedBeacons\nRF_SDK\modules\nrfx\mdk\nrf53_erratas.h \
+ E:\Personal\Projects\Amrica\2024_order\Firmware\PairedBeacons\PairedBeacons\nRF_SDK\modules\nrfx\mdk\nrf91_erratas.h \
+ E:\Personal\Projects\Amrica\2024_order\Firmware\PairedBeacons\PairedBeacons\nRF_SDK\modules\nrfx\mdk\system_nrf52_approtect.h

@@ -1,0 +1,20 @@
+Have placed the folders on ideal directories
+
+Bellow error accurs : undefined reference to `__RAM1_segment_end__'
+
+Next actions : 
+
+	To see how to fix this
+		Best would be to just replace those flash and emproject files from the newer SDK and change the paths and configs
+	
+	To move BLE codes to the ideal file in ble_central and ble_peripheral dirs
+
+	To move security otp generation from central to peripheral
+
+	To implement fstorage and test it
+
+	To test all the functionality
+
+
+
+
